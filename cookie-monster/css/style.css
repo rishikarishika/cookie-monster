@@ -1,0 +1,33 @@
+
+
+body{
+	background:url('../images/cookie-monster.jpg'); 
+	
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top right;
+    margin: 0px;
+}
+#container{
+	margin: 0px;
+	background-color: black;
+	width: 600px;
+	height: 683px;
+	color: white;
+
+}
+h1{  
+	margin-top:0px;
+	font-size: 80px;
+}
+h2{
+	background:#75c1f6;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a{
+	color: #75c1f6;
+	text-decoration: none;
+}
